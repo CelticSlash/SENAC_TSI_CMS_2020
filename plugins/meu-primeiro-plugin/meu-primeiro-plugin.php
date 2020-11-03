@@ -29,7 +29,7 @@
 
             $nome_do_site = get_bloginfo();
 
-            $titulo = $dados_do_post->post_title
+            $titulo = $dados_do_post->post_title;
 
             $resumo = $dados_do_post->post_excerpt;
 
